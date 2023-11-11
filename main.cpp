@@ -2,6 +2,9 @@
 
 int main(){
 
+    //Random seed 
+    srand(time(NULL));
+
     ArrayToSort Arr;
     Arr.print();
     Arr.selection_sort();
