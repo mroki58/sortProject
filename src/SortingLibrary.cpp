@@ -1,4 +1,4 @@
-#include "Sorting Library.h"
+#include "SortingLibrary.h"
 
 ArrayToSort::ArrayToSort()
 {
