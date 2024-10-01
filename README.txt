@@ -1,5 +1,5 @@
 
-Simple programme with implementation of sorting algorithms.
+Simple program with implementation of sorting algorithms.
 Plans for future are to measure a time complexity of all of them.
 
 This project mix OOP and procedural programming in c/c++.
